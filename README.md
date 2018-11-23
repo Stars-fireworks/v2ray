@@ -5,6 +5,7 @@
 
 bash <(curl -s -L https://233yes.com/v2ray.sh)
 
+或者
 
 git clone https://github.com/233boy/v2ray
 
